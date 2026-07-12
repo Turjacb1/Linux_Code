@@ -1,0 +1,1 @@
+mv new.sh first.sh
