@@ -1,0 +1,3 @@
+pwa
+ls -la
+cd
